@@ -1,0 +1,14 @@
+.empty{
+    background-color: rgba(3, 228, 97, 0.1);
+}
+
+.day{
+    background-color: aquamarine;
+    font-size: 22px;
+}
+
+.current_day{
+    background-color: red;
+    font-size: 22px;
+    color: white;
+}
